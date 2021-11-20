@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!--comentario para "probar commit"-->
 <html>
   <head>
     <meta charset="utf-8">
@@ -8,25 +7,9 @@
     <link rel="stylesheet" href="css/layout.css">
   </head>
   <body>
-      <h1>Header</h1>
-         <nav>
-             <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Nuestro equipo</a></li>
-                <li><a href="#">Projectos</a></li>
-                <li><a href="#">Contacto</a></li>
-             </ul>
-         </nav>
 
+   <h1>Header</h1>
 
-
-<!--
-
-      <?php
-         $base=200;
-         $altura=546;
-         echo 'La base es '.$base.', la altura es '.$altura.', y el area es '.($base*$altura/2);
-      ?>
    <img src="imagenes/increibles.png" width="100px"/>
 
    <ul>
@@ -77,7 +60,5 @@
   </ul>
 
    <p>©Copyright 2050 by nobody. All rights reversed.</p>
--->
-
   </body>
 </html>
